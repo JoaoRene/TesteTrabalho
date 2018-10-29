@@ -12,7 +12,7 @@
 			</tr>
 			
 			<tr>
-				<td><a href="C:\Users\jrene\Desktop\putty.exe">Mina de teste</a></td>
+				<td><a href="https://raw.githubusercontent.com/JoaoRene/TesteTrabalho/master/putty.exe">Mina de teste, ira baixar o putty</a></td>
 				<td>Tamanho do arquivo</td>
 				<td>Ultima modificação</td>
 			</tr>	
